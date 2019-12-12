@@ -1,0 +1,71 @@
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:t broken-links:nil c:nil creator:nil
+#+OPTIONS: d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t num:nil
+#+OPTIONS: p:nil pri:nil prop:nil stat:t tags:t tasks:t tex:t
+#+OPTIONS: timestamp:t title:t toc:t todo:t |:t
+#+TITLE: resources
+#+AUTHOR: Andrew M Davis, PhD
+#+EMAIL: @reconmaster:matrix.org
+#+LANGUAGE: en
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 26.1 (Org mode 9.1.13)
+#+FILETAGS: 気, ki, gov, us, il, res
+Objective: [[https://en.wikipedia.org/wiki/Resource][resources]]
+* Introduction
+The potential benefit of using open-source technology for the
+improvement of governance has been with this country since its
+inception. The collaborative nature of our foundational documents
+themselves provided the framework that allowed the development of [[https://en.wikipedia.org/wiki/GNU_General_Public_License][GNU]],
+[[https://en.wikipedia.org/wiki/Linux][Linux]], and eventually [[https://en.wikipedia.org/wiki/Git][Git]].
+* Background
+The use of open-source technologies have yielded some exceptional
+operating platforms for computer hardware (ex. [[https://www.archlinux.org/][archlinux]]). As such, I
+hypothesize utilizing similar [[https://en.wikipedia.org/wiki/Infrastructure][infrastructure]] could yield useful
+results for the code running on our [[https://en.wikipedia.org/wiki/Civic_virtue][civil]] hardware.
+
+Let's not forget that the [[https://en.wikipedia.org/wiki/Bootstrapping][bootstrap]] is part of the OS too.
+** Examples
+The use of git in governance has already been anticipated.
+*** [[https://blog.abevoelker.com/gitlaw-github-for-laws-and-legal-documents-a-tourniquet-for-american-liberty/][GitLaw]]
+ Some good insight.
+*** [[https://gitlab.com/ccao-data-science---modeling][Cook County Assessors Office]]
+*** [[https://mymadison.io/][Madison]]
+*** [[https://github.com/nysenate/OpenLegislation][OpenLegislation]]
+ An effort by the NY Senate to improves legislative transparency.
+*** [[https://github.com/JesseKPhillips/USA-Constitution][USA-Constitution]]
+*** [[https://github.com/divegeek/utahcode][utahcode]]
+ The complete Utah Code.
+** Videos
+*** [[https://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government#t-1084351][Clay Shirky - How the Internet will (one day) transform government]]
+ A good description of how version control can help improve governance.
+*** [[https://www.youtube.com/watch?v=K8ROmhwphMg&feature=youtu.be][Cook County Assessor's office uses GitLab to reach a new level of transparency in local government]]
+*** [[https://www.ted.com/playlists/13/open_source_open_world][Open-source, open world]]
+* TODO [[https://en.wikipedia.org/wiki/Education][Education]]
+#+begin_quote
+Only the educated are free.
+
+Epictetus 先生
+#+end_quote
+This is a more foundational level of the source code.
+** TODO K-12
+By introducing children to the workings of open-source technology and
+the civil platform, the future [[https://en.wikipedia.org/wiki/Generation][generation]] will become familiar with
+the computational tools needed to participate in a knowledge-based
+economy as well as the tools need to participate in civil discourse.
+
+- [[https://www.teachforamerica.org/][Teach for America]]
+** TODO [[file:university.org][University]]
+These institutions have collected a lot of rarefied thinking
+pertaining to all levels of this proposition. For this software to
+show its true Value, a lot of collaboration would be in order.
+
+As these institutions themselves are modules running on this platform,
+the may see the benefit in actively developing the code base on which
+they function.
+* TODO [[https://en.wikipedia.org/wiki/Government][Government]]
+In order to run this software, an interface with all branches of
+government must be established.
+** [[http://www.ilga.gov/][Illinois  General Assembly]]
+** [[http://www.illinoiscourts.gov/][Supreme Court]]
+** [[https://www2.illinois.gov/sites/gov/Pages/default.aspx][Governor]]

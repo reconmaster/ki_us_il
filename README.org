@@ -1,0 +1,33 @@
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:t broken-links:nil c:nil creator:nil
+#+OPTIONS: d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t num:nil
+#+OPTIONS: p:nil pri:nil prop:nil stat:t tags:t tasks:t tex:t
+#+OPTIONS: timestamp:t title:t toc:t todo:t |:t
+#+TITLE: North Carolina
+#+AUTHOR: Andrew M Davis, PhD
+#+EMAIL: @reconmaster:matrix.org
+#+LANGUAGE: en
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 26.1 (Org mode 9.1.13)
+#+FILETAGS: 気, ki, gov, us, il
+Objective: Optimize Illinois
+
+#+BEGIN_QUOTE
+Give me six hours to chop down a tree and I will spend the first four
+sharpening the axe.
+
+Lincoln 先生
+#+END_QUOTE
+* Introduction
+Illinois is a beautiful state in the [[https://github.com/reconmaster/ki_us][United States of America]].
+* Methods
+In order to optimize the source code of IL, it will be necessary to
+learn the computational tools described by this [[https://github.com/reconmaster/ki_repo][sub objective]].
+* Conclusion
+#+begin_quote
+The philosophy of the school room in one generation will be the
+philosophy of government in the next.
+
+Lincoln 先生
+#+end_quote
